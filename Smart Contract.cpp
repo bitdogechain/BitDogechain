@@ -366,8 +366,8 @@ library Address{
     
     uint256 public genesis_block;
     
-    address public marketingWallet = 0x6f5C6D8E957966defC1b005676dBF816D7984576;
-    address public donationWallet = 0x6f5C6D8E957966defC1b005676dBF816D7984576;
+    address public marketingWallet = 0x000000000000000000000000000000000000dead;
+    address public donationWallet = 0x000000000000000000000000000000000000dead;
 
     string private constant _name = "BDMAX";
     string private constant _symbol = "BDMAX";
